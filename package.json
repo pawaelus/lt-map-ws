@@ -1,0 +1,24 @@
+{
+  "name": "lt-map-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawaelus/lt-map-ws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "websocket": "^1.0.34"
+  },
+  "bugs": {
+    "url": "https://github.com/pawaelus/lt-map-ws/issues"
+  },
+  "homepage": "https://github.com/pawaelus/lt-map-ws#readme"
+}
